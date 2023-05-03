@@ -2,6 +2,10 @@
 
 Código desenvolvido para gerar captchas automaticamente ao usuário.
 
+<div align="center">
+    <img src="captcha.png" alt="grafico de previsao">
+</div>
+
 ## Autor
 Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
 
