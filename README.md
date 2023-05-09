@@ -1,7 +1,7 @@
 <h1 align="center">Gerador de Captcha</h1>
 
 <h3 align="center">Código desenvolvido para gerar captchas automaticamente ao usuário.</h3>
-
+<br></br>
 <div align="center">
     <img src="captcha.png" alt="grafico de previsao">
 </div>
