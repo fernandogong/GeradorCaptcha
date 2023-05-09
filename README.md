@@ -1,6 +1,6 @@
-# Gerador de captcha feito em Python
+<h1 align="center">Gerador de Captcha</h1>
 
-Código desenvolvido para gerar captchas automaticamente ao usuário.
+<h3 align="center">Código desenvolvido para gerar captchas automaticamente ao usuário.</h3>
 
 <div align="center">
     <img src="captcha.png" alt="grafico de previsao">
